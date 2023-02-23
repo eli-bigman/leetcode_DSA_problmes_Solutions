@@ -1,0 +1,24 @@
+{
+  "name": "leetcode_dsa_problmes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clifftech123/leetcode_DSA_problmes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clifftech123/leetcode_DSA_problmes/issues"
+  },
+  "homepage": "https://github.com/Clifftech123/leetcode_DSA_problmes#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.0",
+    "typescript": "^4.9.5"
+  }
+}
